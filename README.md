@@ -28,7 +28,7 @@ Numbers are for reference only, not practical number
   - plotly.express (FIGURE)
   - interactive multi callback
 - Cloud Service Deployment
-  - G
+  - Git
   - Heroku
   
   
