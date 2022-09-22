@@ -1,6 +1,6 @@
 # Dashboard by Python Dash
 
-<p>This is an Automated, Interactive, End To End Dashboard web application build by <strong><em>Python Dash</em></strong> and <strong><em>SQL</em></strong>, and deploy through <strong><em>Heroku</em></strong>.</p>
+<p>This is an Automated, Interactive, End To End Dashboard web application built by <strong><em>Python Dash</em></strong> and <strong><em>SQL</em></strong>, and deployed through <strong><em>Heroku</em></strong>.</p>
 <p>The main purpose of the application is to update and upload daily data to track key metrics which help decrease workload effectively. In the meanwhile, it is accessible and also allows people to quickly grasp the current situation.</p>
 
 # Why Dash ? 
