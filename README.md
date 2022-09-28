@@ -32,6 +32,5 @@ Numbers are for reference only, not practical number
   - Heroku
   
 # Architecture
-  
-![architecture](https://user-images.githubusercontent.com/23008522/192698841-d93f5aee-2647-4ec9-8e1d-e3ab0431294f.png)
 
+![architecture](https://user-images.githubusercontent.com/23008522/192699493-edbddb3e-e549-4c1b-a6de-c257131a64b7.png)
