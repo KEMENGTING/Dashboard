@@ -33,4 +33,5 @@ Numbers are for reference only, not practical number
   
 # Architecture
   
-  
+![architecture](https://user-images.githubusercontent.com/23008522/192698841-d93f5aee-2647-4ec9-8e1d-e3ab0431294f.png)
+
