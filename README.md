@@ -1,7 +1,7 @@
 # Dashboard by Python Dash
 
 <p>This is an Automated, Interactive, End To End Dashboard web application built by <strong><em>Python Dash</em></strong> and <strong><em>SQL</em></strong>, and deployed through <strong><em>Heroku</em></strong>.</p>
-<p>The main purpose of the application is to update and upload daily data (mobile app) to track key metrics. In the meanwhile, it is accessible and also allows people to quickly grasp the current situation.</p>
+<p>The main purpose of the application is to update and upload daily data (mobile app) from database to a dashboard which help people track key metrics of the product. It is accessible and also allows people to quickly grasp the current situation.</p>
 
 # Why Dash ? 
 Dash is the original low-code framework for rapidly building data apps in Python, R, Julia.<br>
